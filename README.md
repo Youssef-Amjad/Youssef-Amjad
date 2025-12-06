@@ -23,7 +23,7 @@
 ## 🚀 Projects
 Here are some of my notable projects:  
 1. **Code Type** - Education Platform: [GitHub](https://github.com/Youssef-Amjad/CodeType)
-
+2. **Smart Serive** - ERP: [GitHub](https://github.com/Youssef-Amjad/smart-serive)
 ---
 
 ## 📫 Contact Me
