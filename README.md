@@ -31,7 +31,7 @@ Here are some of my notable projects:
 - **GitHub:** [Youssef-Amjad](https://github.com/Youssef-Amjad)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/youssef-amjad)
 - **Facebook:** [Facebook Profile](https://www.facebook.com/ZY1YOGi)
-- **X (twitter):** [X (twitter)](https://x.com/Youssef0Amjad)
+- **X (twitter):** [X (twitter) Profile](https://x.com/Youssef0Amjad)
 ---
 
 ### 🌟 Fun Fact
