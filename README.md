@@ -27,11 +27,11 @@ Here are some of my notable projects:
 ---
 
 ## 📫 Contact Me
-- **Email:** youssef@example.com
+- **Email:** youssef_amjad@icloud.com
 - **GitHub:** [Youssef-Amjad](https://github.com/Youssef-Amjad)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/youssef-amjad)
 - **Facebook:** [Facebook Profile](https://www.facebook.com/ZY1YOGi)
-
+- **X (twitter):** [X (twitter)](https://x.com/Youssef0Amjad)
 ---
 
 ### 🌟 Fun Fact
